@@ -79,7 +79,12 @@ defaults:
       menu: true
       order: 3
   - scope:
-      path: about.markdown
+      path: certifications.markdown
     values:
       menu: true
       order: 4
+  - scope:
+      path: about.markdown
+    values:
+      menu: true
+      order: 5
