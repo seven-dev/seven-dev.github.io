@@ -88,3 +88,18 @@ defaults:
     values:
       menu: true
       order: 5
+
+collections:
+  projects:
+    permalink: /projects/:path/
+    output: true
+
+hydejack:
+
+  # Just for the PRO version
+  dark_mode:
+    #dynamic: true
+    #sunrise: 6
+    #sunset:  18
+    icon:    true
+    always:  true
