@@ -58,7 +58,7 @@ plugins:
 
 author:
   social:
-    linkedin: seven-dev
+    linkedin: https://www.linkedin.com/in/seven-dev/
     github:  seven-dev
 
 # file: _config.yml
