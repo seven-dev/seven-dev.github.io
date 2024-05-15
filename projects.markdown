@@ -38,6 +38,10 @@ div.desc {
   text-align: center;
 }
 
+.clearfix {
+  clear: both;
+}
+
 </style>
 
 <div>
@@ -90,4 +94,4 @@ div.desc {
       </a>
    </div>
 </div>
-<br/>
+<div class="clearfix"></div>
