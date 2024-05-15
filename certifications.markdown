@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Certifications
+description: >
+  Check out my professional certifications and training accomplishments.
 ---
 
 <style>

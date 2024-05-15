@@ -1,6 +1,8 @@
 ---
 layout: page
 title:  Demos
+description: >
+  Browse through my open source and Kaggle projects, featuring interactive demos and detailed code.
 ---
 
 ## Data science / Machine learning

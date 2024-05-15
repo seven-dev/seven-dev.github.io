@@ -3,6 +3,8 @@ layout: page
 title:  Projects
 show_collection: projects
 featured: true
+description: >
+  Explore the projects I've contributed to, showcasing my work and achievements.
 ---
 
 <style>
