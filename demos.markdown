@@ -5,57 +5,22 @@ title:  Demos
 
 ## Data science / Machine learning
 
-1. **Fundamentals**
-   - Statistics
-     - Descriptive Statistics
-     - Inferential Statistics
-   - Linear Algebra
-   - Probability
-   - Programming
-     - Python
-     - R
+<!-- ### EDA and statistics
+* Data visualization
 
-2. **Data Management**
-   - Data Cleaning
-   - Data Manipulation
-   - Databases
-     - SQL
-     - NoSQL
+### Generative AI
 
-3. **Exploratory Data Analysis**
-   - Visualization
-     - Matplotlib
-     - Seaborn
-   - Data Summarization
 
-4. **Machine Learning**
-   - Supervised Learning
-     - Regression
-     - Classification
-   - Unsupervised Learning
-     - Clustering
-     - Dimensionality Reduction
-   - Reinforcement Learning
-   - Neural Networks
-     - Deep Learning
+### Computer vision
 
-5. **Advanced Topics**
-   - Natural Language Processing (NLP)
-   - Computer Vision
-   - Time Series Analysis
-   - Anomaly Detection
+* Image classification
+* Object detection
+* Image segmentation
 
-6. **Big Data Technologies**
-   - Hadoop
-   - Spark
-   - Kafka
+### Business intelligence -->
 
-7. **Model Deployment and Production**
-   - Model Deployment
-   - MLOps
-   - Monitoring Model Performance
+* <a href="https://www.kaggle.com/code/sevendev/sales-forecasting-with-lstm#Forecast-test-data" target="_blank">Sales forecasting using LSTM</a> -Predicting future sales of a business (time series forecasting) using an LSTM-based model.  
+* <a href="https://www.kaggle.com/code/sevendev/car-selling-price-estimation" target="_blank">Car selling price estimation using RandomForestRegressor</a> - Estimate the price of a car given a set of characteristics of the car.
+* <a href="https://github.com/seven-dev/understanding-through-implementation/blob/main/src/implementation/polynomial-regression/polynomial-regression-with-gradient-descent.ipynb" target="_blank">Understanding through implementation</a> - A repository where I implement machine learning algorithms from scratch to make sure I fully understand them and all their parameters. The linked notebook is an analysis of the polynomial regression model, there are other examples in that same repository.
 
-8. **Ethics and Law**
-   - Data Privacy
-   - Bias and Fairness
-   - Regulatory Compliance
+(More to come)
