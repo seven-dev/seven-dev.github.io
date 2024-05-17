@@ -60,6 +60,7 @@ author:
   social:
     linkedin: https://www.linkedin.com/in/seven-dev/
     github:  seven-dev
+    medium: https://medium.com/@seven-dev
 
 # file: _config.yml
 defaults:
@@ -69,12 +70,12 @@ defaults:
       menu: true
       order: 1
   - scope:
-      path: certifications.markdown
+      path: projects.markdown
     values:
       menu: true
       order: 2
   - scope:
-      path: projects.markdown
+      path: certifications.markdown
     values:
       menu: true
       order: 3

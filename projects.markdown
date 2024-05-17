@@ -38,6 +38,7 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: center;
+  height: 75px;
 }
 
 .clearfix {
@@ -48,11 +49,11 @@ div.desc {
 
 <div>
    <div class="gallery">
-      <a target="_blank" href="#">
+      <a href="/projects/real-time-streaming-analysis/">
          <div class="imgcontainer">
-            <img src="/assets/img/stream-analysis.webp" width="600" height="400">
+            <img src="/assets/img/stream-a.png" width="600" height="400">
          </div>
-         <div class="desc">Real-time video stream analytics dashboard using ML</div>
+         <div class="desc">Real-time video stream analysis</div>
       </a>
    </div>
    <div class="gallery">
@@ -60,7 +61,7 @@ div.desc {
          <div class="imgcontainer">
             <img src="/assets/img/cam-heatmap.webp" width="600" height="400">
          </div>
-         <div class="desc">Real-time IPCam people tracking heatmap using OpenCV</div>
+         <div class="desc">Real-time people tracking heatmap for Retail</div>
       </a>
    </div>
    <div class="gallery">
@@ -68,15 +69,15 @@ div.desc {
          <div class="imgcontainer">
             <img src="/assets/img/autoyoutube.webp" width="600" height="400">
          </div>
-         <div class="desc">Automatic Youtube channel - Content generator and auto uploader</div>
+         <div class="desc">Automatic Youtube channel</div>
       </a>
    </div>
    <div class="gallery">
       <a target="_blank" href="#">
          <div class="imgcontainer">
-            <img src="/assets/img/mldeepdive.webp" width="600" height="400">
+            <img src="/assets/img/robot.webp" width="600" height="400">
          </div>
-         <div class="desc">ML models from scratch using Python and OpenGL</div>
+         <div class="desc">Teaching new skills to a social robot</div>
       </a>
    </div>
    <div class="gallery">
@@ -84,7 +85,7 @@ div.desc {
          <div class="imgcontainer">
             <img src="/assets/img/datascraping.webp" width="600" height="400">
          </div>
-         <div class="desc">Data scraping from Google and Airbnb</div>
+         <div class="desc">Improving the safety of maintenance personnel with technology</div>
       </a>
    </div>
    <div class="gallery">
