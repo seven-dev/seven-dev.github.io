@@ -21,16 +21,13 @@
 title: João Neves (@seven-dev)
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my portfolio! Here you'll find a selection of projects
-  I've worked on, my certifications and a personal blog.
+  Welcome to my portfolio! Here you'll find information about my certifications as well as a selection of projects
+  I've worked on.
   Enjoy exploring!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: seven-dev
 github_username:  seven-dev
-
-paginate: 5
-paginate_path: '/blog/:num/'
 
 # Build settings
 #theme: minima
@@ -38,7 +35,6 @@ remote_theme: hydecorp/hydejack@v9.1.6
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -82,11 +78,6 @@ defaults:
     values:
       menu: true
       order: 3
-  - scope:
-      path: "!blog.md"
-    values:
-      menu: true
-      order: 4
 
 collections:
   projects:
