@@ -9,7 +9,7 @@ title: About me
 
 My name is João Neves. I am a curious individual with a passion for nature, space exploration, and science.  
 
-While I don't care much about technology for its own sake, I value it for its ability to save time and achieve better and faster results through the automation of processes. This perspective has led me to focus more on Data Science lately, particularly Machine Learning, because I see it as a way of automating more complex processes.  
+I value technology for its ability to save time and achieve better and faster results through the automation of processes. This perspective has led me to focus on Data Science, particularly Machine Learning, because I see it as a way of automating more complex processes.  
 
 I see technology as a set of tools, and I am always willing to learn whatever tool I need to achieve the best results. For this reason, my professional experience has been a little bit all over the place: I have worked in areas such as virtual and augmented reality, Android and iOS programming, IoT, Machine Learning, Full-stack development and even Robotics, although I do not consider myself to be a master in any of them.  
 

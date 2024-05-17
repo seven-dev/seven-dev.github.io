@@ -8,9 +8,9 @@ Image generated with ChatGPT to give a basic idea of what the project looked lik
 {:.figcaption}
 ## Project overview
 
-One of the most interesting projects I've worked on was this real-time video streaming analysis service. This website allowed users to input one or more video stream URLs, such as from <a target="_blank" href="https://www.cameraftp.com/cameraftp/publish/publishedcameras.aspx">IP cameras</a>. Users could then select various computer vision models to analyze the streams in real-time and gather analytics over a long period time.  
+One of the most interesting projects I've worked on was this **real-time video streaming analysis service**. This website allowed users to input one or more video stream URLs, such as from <a target="_blank" href="https://www.cameraftp.com/cameraftp/publish/publishedcameras.aspx">IP cameras</a>. Users could then select various computer vision models to analyze the streams in real-time and gather analytics over a long period time.  
 It was designed with multiple use cases in mind, including security applications, such as detecting unauthorized entry into restricted areas, or verifying various equipment.  
-It was developed by just 3 people using the SCRUM methodology, sometimes with a little help of others.
+It was developed by just 3 people using the SCRUM methodology, sometimes with a little bit of help from others.
 
 It involved tasks such as:
 
