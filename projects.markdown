@@ -58,6 +58,14 @@ div.desc {
       </a>
    </div>
    <div class="gallery">
+      <a href="/projects/maintenance-workers-safety/">
+         <div class="imgcontainer">
+            <img src="/assets/img/maintenance.webp" width="600" height="400">
+         </div>
+         <div class="desc">Improving the safety of maintenance workers with technology</div>
+      </a>
+   </div>
+   <div class="gallery">
       <a target="_blank" href="/assets/img/cam-heatmap.webp">
          <div class="imgcontainer">
             <img src="/assets/img/cam-heatmap.webp" width="600" height="400">
@@ -79,14 +87,6 @@ div.desc {
             <img src="/assets/img/robot.webp" width="600" height="400">
          </div>
          <div class="desc">Teaching new skills to a social robot</div>
-      </a>
-   </div>
-   <div class="gallery">
-      <a target="_blank" href="#">
-         <div class="imgcontainer">
-            <img src="/assets/img/datascraping.webp" width="600" height="400">
-         </div>
-         <div class="desc">Improving the safety of maintenance personnel with technology</div>
       </a>
    </div>
    <div class="gallery">
