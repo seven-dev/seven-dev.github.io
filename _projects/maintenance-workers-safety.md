@@ -6,11 +6,11 @@ image:
 ---
 Example of a maintenance worker carrying a camera and other equipment, in addition to wearing his safety gear.
 {:.figcaption}
-## Project overview
+### Project overview
 
 The primary objective of this project was to ensure the safety of maintenance workers and enforce protocol compliance. We achieved this by equipping workers with a camera and various sensors to monitor their safety and promptly alert the backoffice in case of any incidents, such as explosions or falls.
 
-### Key Features
+### Key features
 
 - **Ensure safety of workers**: We employed machine learning to detect if workers were wearing gloves and to identify any unusual sounds or movements. Additionally, a sensor was integrated to verify helmet usage.  
 - **Backoffice**: The backoffice was used to monitor and assist in multiple operations in parallel. It allowed the operators to get notified immediately whenever there was a problem and allowed them to make video calls directly to the workers.  
