@@ -66,15 +66,7 @@ div.desc {
       </a>
    </div>
    <div class="gallery">
-      <a target="_blank" href="/assets/img/cam-heatmap.webp">
-         <div class="imgcontainer">
-            <img src="/assets/img/cam-heatmap.webp" width="600" height="400">
-         </div>
-         <div class="desc">Real-time people tracking heatmap for Retail</div>
-      </a>
-   </div>
-   <div class="gallery">
-      <a target="_blank" href="#">
+      <a target="_blank" href="/projects/automatic-youtube-channel/">
          <div class="imgcontainer">
             <img src="/assets/img/autoyoutube.webp" width="600" height="400">
          </div>
@@ -97,6 +89,15 @@ div.desc {
          <div class="desc">Device user manual using AR</div>
       </a>
    </div>
+   <div class="gallery">
+      <a target="_blank" href="/assets/img/cam-heatmap.webp">
+         <div class="imgcontainer">
+            <img src="/assets/img/cam-heatmap.webp" width="600" height="400">
+         </div>
+         <div class="desc">Real-time people tracking heatmap for Retail</div>
+      </a>
+   </div>
+   
 </div>
 <div class="clearfix"></div>
 
