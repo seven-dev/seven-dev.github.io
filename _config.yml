@@ -36,6 +36,8 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -60,7 +62,7 @@ author:
   social:
     linkedin: https://www.linkedin.com/in/seven-dev/
     github:  seven-dev
-    medium: https://medium.com/@seven-dev
+    #medium: https://medium.com/@seven-dev
 
 # file: _config.yml
 defaults:

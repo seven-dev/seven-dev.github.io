@@ -21,12 +21,12 @@ __________________________
 
 **Positive points:**
 
-* Curiosity: I have a strong drive to explore and understand new subjects, which fuels my continuous learning and growth.
-* Adaptability: I excel at quickly learning and applying new technologies to achieve optimal results, adapting efficiently to changing environments and challenges.
-* Attention to Detail: I am thorough and meticulous, ensuring high quality and accuracy in my work.
+- **Curiosity**: I have a strong drive to explore and understand new subjects, which fuels my continuous learning and growth.
+- **Adaptability**: I excel at quickly learning and applying new technologies to achieve optimal results, adapting efficiently to changing environments and challenges.
+- **Attention to detail**: I am thorough and meticulous, ensuring high quality and accuracy in my work.
 
 **Areas for improvement:**
 
-* Public Speaking: While I am comfortable in small group discussions, I feel I could improve my confidence and effectiveness in larger presentations.
-* Perfectionism: I sometimes spend too much time trying to perfect details, which can affect deadlines.
-* Work-Life Balance: I tend to immerse myself in work, which can sometimes affect my personal life.
+- **Public speaking**: While I am comfortable in small group discussions, I feel I could improve my confidence and effectiveness in larger presentations.
+- **Perfectionism**: I sometimes spend too much time trying to perfect details, which can affect deadlines.
+- **Work-life balance**: I tend to immerse myself in work, which can sometimes affect my personal life.
