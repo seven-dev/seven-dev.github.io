@@ -82,15 +82,15 @@ div.desc {
       </a>
    </div>
    <div class="gallery">
-      <a target="_blank" href="#">
+      <a href="/projects/device-user-manual/">
          <div class="imgcontainer">
-            <img src="/assets/img/ar.webp" width="600" height="400">
+            <img src="/assets/img/device-user-manual.webp" width="600" height="400">
          </div>
          <div class="desc">Device user manual using AR</div>
       </a>
    </div>
    <div class="gallery">
-      <a target="_blank" href="/assets/img/cam-heatmap.webp">
+      <a href="/projects/retail-heatmap/">
          <div class="imgcontainer">
             <img src="/assets/img/cam-heatmap.webp" width="600" height="400">
          </div>

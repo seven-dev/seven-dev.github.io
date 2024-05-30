@@ -9,7 +9,7 @@ image:
 ### Project overview
 
 This project involves creating a fully automated YouTube channel. The system generates, schedules, and uploads new videos daily without any human intervention.  
-The goal of this specific YouTube channel was to teach its subscribers new English vocabulary every day. However, the underlying technology is versatile and can be adapted for any type of YouTube channel.  
+The goal of this specific YouTube channel was to teach its subscribers new English vocabulary every day. However, the underlying technology is versatile and can be adapted for other types of YouTube channels.  
 
 <details>
   <summary>Example video (click here)</summary>
