@@ -66,7 +66,7 @@ div.desc {
       </a>
    </div>
    <div class="gallery">
-      <a target="_blank" href="/projects/automatic-youtube-channel/">
+      <a href="/projects/automatic-youtube-channel/">
          <div class="imgcontainer">
             <img src="/assets/img/autoyoutube.webp" width="600" height="400">
          </div>
@@ -74,7 +74,7 @@ div.desc {
       </a>
    </div>
    <div class="gallery">
-      <a target="_blank" href="#">
+      <a href="/projects/social-robot/">
          <div class="imgcontainer">
             <img src="/assets/img/robot.webp" width="600" height="400">
          </div>
