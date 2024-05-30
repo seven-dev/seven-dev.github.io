@@ -2,7 +2,7 @@
 layout: post
 title:       Improving the safety of maintenance workers with technology
 image:
-  path:    /assets/img/maintenance.webp
+  path:    /assets/img/maintenance-workers-safety.webp
 ---
 Example of a maintenance worker carrying a camera and other equipment, in addition to wearing his safety gear.
 {:.figcaption}

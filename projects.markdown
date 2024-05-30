@@ -52,7 +52,7 @@ div.desc {
    <div class="gallery">
       <a href="/projects/real-time-streaming-analysis/">
          <div class="imgcontainer">
-            <img src="/assets/img/stream-a.png" width="600" height="400">
+            <img src="/assets/img/real-time-streaming-analysis.png" width="600" height="400">
          </div>
          <div class="desc">Real-time video stream analysis</div>
       </a>
@@ -60,7 +60,7 @@ div.desc {
    <div class="gallery">
       <a href="/projects/maintenance-workers-safety/">
          <div class="imgcontainer">
-            <img src="/assets/img/maintenance.webp" width="600" height="400">
+            <img src="/assets/img/maintenance-workers-safety.webp" width="600" height="400">
          </div>
          <div class="desc">Improving the safety of maintenance workers with technology</div>
       </a>
@@ -68,7 +68,7 @@ div.desc {
    <div class="gallery">
       <a href="/projects/automatic-youtube-channel/">
          <div class="imgcontainer">
-            <img src="/assets/img/autoyoutube.webp" width="600" height="400">
+            <img src="/assets/img/automatic-youtube-channel.webp" width="600" height="400">
          </div>
          <div class="desc">Automatic Youtube channel</div>
       </a>
@@ -76,7 +76,7 @@ div.desc {
    <div class="gallery">
       <a href="/projects/social-robot/">
          <div class="imgcontainer">
-            <img src="/assets/img/robot.webp" width="600" height="400">
+            <img src="/assets/img/social-robot.webp" width="600" height="400">
          </div>
          <div class="desc">Teaching new skills to a social robot</div>
       </a>
@@ -92,7 +92,7 @@ div.desc {
    <div class="gallery">
       <a href="/projects/retail-heatmap/">
          <div class="imgcontainer">
-            <img src="/assets/img/cam-heatmap.webp" width="600" height="400">
+            <img src="/assets/img/retail-heatmap.webp" width="600" height="400">
          </div>
          <div class="desc">Real-time people tracking heatmap for Retail</div>
       </a>

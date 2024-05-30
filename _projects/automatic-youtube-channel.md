@@ -2,7 +2,7 @@
 layout: post
 title:       Automatic Youtube channel
 image:
-  path:    /assets/img/autoyoutube.webp
+  path:    /assets/img/automatic-youtube-channel.webp
 ---
 
 

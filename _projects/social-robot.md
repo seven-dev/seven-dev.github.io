@@ -2,7 +2,7 @@
 layout: post
 title:       Teaching new skills to a social robot
 image:
-  path:    /assets/img/robot.webp
+  path:    /assets/img/social-robot.webp
 ---
 
 

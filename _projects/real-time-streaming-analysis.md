@@ -2,7 +2,7 @@
 layout: post
 title:       Real-time video stream analysis
 image:
-  path:    /assets/img/stream-a.png
+  path:    /assets/img/real-time-streaming-analysis.png
 ---
 Image generated with ChatGPT to give a basic idea of what the project looked like. A user was able to add video streams and observe real-time analytics about the videos.
 {:.figcaption}
